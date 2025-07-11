@@ -2,7 +2,7 @@
 
 ## 📋 Resumen del Proyecto
 
-**Space Invaders - Patrones de Diseño** es una implementación educativa del clásico juego Space Invaders en Java que demuestra tres patrones de diseño importantes. Desarrollado por **pauli**.
+**Space Invaders - Patrones de Diseño** es una implementación educativa del clásico juego Space Invaders en Java que demuestra tres patrones de diseño importantes. Desarrollado por **Pauli**.
 
 ### 🎯 Patrones Implementados
 
