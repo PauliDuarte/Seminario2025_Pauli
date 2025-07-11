@@ -1,4 +1,4 @@
-# Space Invaders - Patrones de Diseño (Versión Pauli)
+# Space Invaders - Patrones de Diseño
 
 ## 📋 Resumen del Proyecto
 
@@ -50,9 +50,3 @@ Seminario_2025/
 O manualmente:
 - **Compilar**: `javac -d bin src/main/*.java src/main/*/*.java`
 - **Ejecutar**: `java -cp bin src.main.Game`
-
-### 📝 Notas del Desarrollador
-- Proyecto educativo para demostrar patrones de diseño
-- Código simplificado y comentado
-- Nombres de variables y métodos en español
-- Estructura clara y fácil de entender
